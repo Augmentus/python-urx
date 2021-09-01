@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="urx",
-    version="0.11.0",
+    version="0.12.0",
     description="Python library to control an UR robot",
     author="Olivier Roulet-Dubonnet",
     author_email="olivier.roulet@gmail.com",
